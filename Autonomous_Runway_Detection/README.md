@@ -49,9 +49,11 @@ Attached below is the comparison between the original picture and the edge detec
 
  
 
-![img](images/image1.jpg)
+![img](images/image1.JPG)
 
 #### **Fig 1:** Before and after edge detection images of “lenna.bmp”
+
+
 
   ![img](images/image2.jpg)
 
@@ -372,7 +374,7 @@ Below are the steps to follow in order to run/test this project
 5. Delete the files inside the folder “Edge_Detected_Bmp_Files” and “Edge_Detected_Bmp_Files_lenna” in FreeRTOS_Plus_TCP_and_FAT_Windows_Simulator projects. Ignore this step if you don’t mind looking at overwritten files.
 
 6. Run the server first by entering the below command with the same port configured in step 1
-  java TCPServer PORT
+    java TCPServer PORT
 
 7. Run the FreeRTOS Project
 
