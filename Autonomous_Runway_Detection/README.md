@@ -53,6 +53,8 @@ Attached below is the comparison between the original picture and the edge detec
 
 #### **Fig 1:** Before and after edge detection images of “lenna.bmp”
 
+
+
   ![img](images/image2.jpg)
 
 #### **Fig 2:** Comparison of before and after edge detection image file in beyond compare software
