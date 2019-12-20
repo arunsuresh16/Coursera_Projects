@@ -1,1 +1,2 @@
-# Coursera_Projects
+## This repository has all the projects done through Coursera
+
